@@ -17,3 +17,7 @@ class inherited from ‘book’ class. Add ebook format (EPUB, PDF,MOBI
 etc) as additional instance variable in inherited class. Override
 royalty() method to deduct GST @12% on ebooks
 ii) Implement simple FLAMES game using Python.
+PHASE-II
+TASK 2 - Design an INDIAN FLAG using python turtle
+PHASE-III
+TASK 3 - Create a countdown timer using Python
